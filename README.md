@@ -1,5 +1,7 @@
 # Bankist-App-with-DOM
 
+First, you can access this site here https://bankist-project-dom.netlify.app/ 
+
 A banking site I created with a line by line trainer while learning DOM manipulation.
 
 Codes that I learned while creating the site and that you can find in its content;
